@@ -1,4 +1,4 @@
 # Summary
 
-* [riot-pug-sass-webpackの基礎](basics/index.md)
+* [riot-pug-sass-webpack-projの基礎](basics/index.md)
     * [ファイル構成について](basics/file-structure.md)

@@ -1,1 +1,1 @@
-# riot-pug-sass-webpackの基礎
+# riot-pug-sass-webpack-projの基礎
